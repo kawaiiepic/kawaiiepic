@@ -1,6 +1,8 @@
 ## Hello, I'm Mia or Mushroom.
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
