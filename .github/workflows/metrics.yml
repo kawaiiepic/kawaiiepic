@@ -44,17 +44,10 @@ jobs:
           plugin_music_limit: 4
           plugin_music_mode: recent
           plugin_music_provider: spotify
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: chriscaldjr
+          plugin_music_token: "f3a9d742a007498ba23855e26653c78a, d9d50d73f5bc47828a3b72ade1330641, AQDiAsG0kg9N8RNNc7_aLcseanmEjHVjd2mdg54SXhTcviUYib5EvC-RLjR9Znldnz6CqWInc1SlUIkQfi-lTimaH_xzEWLyqNVXkDz_QM8P6uiSmMye2GUVsxeGGnA6BiQ"
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
+          plugin_wakatime_token: ${{ secrets.WAKATIME }}
