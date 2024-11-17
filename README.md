@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Mia or Mushroom.
 
 <!--START_SECTION:waka-->
 
