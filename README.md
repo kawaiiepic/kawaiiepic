@@ -1,6 +1,6 @@
 ## Hello, I'm Mia or Mushroom.
 
-picture>
+<picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
