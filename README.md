@@ -1,6 +1,6 @@
 ## Hello, I'm Mia or Mushroom.
 
-![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
