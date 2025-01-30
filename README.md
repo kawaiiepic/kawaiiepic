@@ -1,4 +1,4 @@
-## Hello, I'm Mia or Mushroom.
+## Hello, I'm Mia.
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
