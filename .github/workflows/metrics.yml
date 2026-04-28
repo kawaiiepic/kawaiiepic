@@ -32,7 +32,7 @@ jobs:
           plugin_music_limit: 4
           plugin_music_mode: recent
           plugin_music_provider: spotify
-          plugin_music_token: "f3a9d742a007498ba23855e26653c78a, d9d50d73f5bc47828a3b72ade1330641, AQDiAsG0kg9N8RNNc7_aLcseanmEjHVjd2mdg54SXhTcviUYib5EvC-RLjR9Znldnz6CqWInc1SlUIkQfi-lTimaH_xzEWLyqNVXkDz_QM8P6uiSmMye2GUVsxeGGnA6BiQ"
+          plugin_music_token: "f3a9d742a007498ba23855e26653c78a, d9d50d73f5bc47828a3b72ade1330641, AQD20ncm00iaKriEwHTNScssYKwq36DJaEFNdHEE0OZgZpelXJHj_DCmsTPOQiOfrpD3j6c6z8igPZrneaSM8LzGH1CCagEuZX5kxrc6uk_kxvxc-YiyK5OBDfcOvEIoOFw"
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_repositories_pinned: 5
